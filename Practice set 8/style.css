@@ -1,0 +1,19 @@
+nev{
+    display:flex;
+    justify-content: space-evenly;
+}
+.parent{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(75, 45, 7);
+}

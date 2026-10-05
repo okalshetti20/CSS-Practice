@@ -1,0 +1,32 @@
+.parent {
+    width: 400px;
+    height: 150px;
+    background-color: rgb(114, 194, 220);
+    padding: 10px;
+}
+.child {
+    width: 50%;
+    height: 70px;
+    background-color: rgba(255, 203, 106);
+        padding: 10px;
+}
+body{
+    font-size: 20px;
+}
+.outer {
+    font-size: 2rem;
+    background-color: lightgreen;
+    padding: 10px;
+}
+.inner {
+    font-size: 2em;
+    background-color: lightyellow;
+    padding: 10px;
+}
+.screen-box {
+    height: 50vh;
+    width: 100vw;
+    background-color: lightcoral;
+    padding: 20px;
+    box-sizing: border-box;
+}

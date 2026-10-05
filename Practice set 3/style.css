@@ -1,0 +1,40 @@
+.Div1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+    border: 2px solid rgb(0, 0, 0);
+}
+nav{
+    height: 60px;
+    background-color: #0f1111;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    padding:25px;
+    font-size: 25px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.search input {
+    height: 30px;
+    width: 175px;
+    padding: 8px;
+    border-radius: 10px;
+}
+.search button {
+    height: 30px;
+    padding: 0 18px;
+    border: none;
+    background-color: #f08804;
+    cursor: pointer;
+    border-radius: 5px;
+}
